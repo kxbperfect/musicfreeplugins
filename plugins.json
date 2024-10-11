@@ -1,5 +1,4 @@
-{"plugins":[
-{"name":"5sing","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/kxbperfect/musicfreeplugins/refs/heads/main/5sing.js"},
+{"plugins":[{"name":"5sing","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/kxbperfect/musicfreeplugins/refs/heads/main/5sing.js"},
 {"name":"酷狗","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/kxbperfect/musicfreeplugins/refs/heads/main/酷狗音乐.js"},
 {"name":"酷我","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/kxbperfect/musicfreeplugins/refs/heads/main/酷我.js"},
 {"name":"咪咕","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/kxbperfect/musicfreeplugins/refs/heads/main/咪咕.js"},
@@ -29,6 +28,4 @@
 {"name":"小窝音乐","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/kxbperfect/musicfreeplugins/refs/heads/main/小窝音乐.js"},
 {"name":"小芸音乐","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/kxbperfect/musicfreeplugins/refs/heads/main/小芸音乐.js"},
 {"name":"音悦台","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/kxbperfect/musicfreeplugins/refs/heads/main/音悦台.js"},
-{"name":"云音乐","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/kxbperfect/musicfreeplugins/refs/heads/main/云音乐.js"}
-]
-}
+{"name":"云音乐","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/kxbperfect/musicfreeplugins/refs/heads/main/云音乐.js"}]}
