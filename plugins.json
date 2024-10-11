@@ -1,5 +1,5 @@
 {"plugins":[
-{"name":"5sing","url":"https://raw.githubusercontent.com/kxbperfect/musicfreeplugins/refs/heads/main/5sing.js"},
+{"name":"5sing","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/kxbperfect/musicfreeplugins/master/5sing.js"},
 {"name":"酷狗","url":"https://raw.githubusercontent.com/kxbperfect/musicfreeplugins/refs/heads/main/酷狗音乐.js"},
 {"name":"酷我","url":"https://raw.githubusercontent.com/kxbperfect/musicfreeplugins/refs/heads/main/酷我.js"},
 {"name":"咪咕","url":"https://raw.githubusercontent.com/kxbperfect/musicfreeplugins/refs/heads/main/咪咕.js"},
